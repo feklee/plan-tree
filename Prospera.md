@@ -1,37 +1,32 @@
-Plan Tree House
-===============
-
+Plan Tree
+=========
 
 [![hackmd-github-sync-badge](https://hackmd.io/tO1LBLJiTfK5JOgBp3thJA/badge)](https://hackmd.io/tO1LBLJiTfK5JOgBp3thJA)
+
 
 Introduction
 ------------
 
-*Plan tree house* at Próspera is an attempt to combine nature as a prime
-resource of Honduras with technology in order explore new fontiers. Along the
-way, we will acquire new knowledge together. There is a path to collaboration
-with a network of potential partners worlwide.
+*Plan tree* is an attempt to combine nature as a prime resource of Honduras with
+technology. Along the way, we will learn and discover. There is a path to
+collaboration with a network of potential partners worldwide.
 
-Creation of a new city in an island known for its natural beauty entails
-thinking precisely about the integration of architecture and nature.
-
-Próspera is the perfect location because the creation of a city in the jungle
-requires exactly that, thinking about architecture and its careful integration
-with nature. Plan tree house creates a positive image and can invite new people
-to Próspera.  When @feklee visited the Próspera in the summer of 2021, there
-have been individuals who signaled their support. Tristan brought up the idea to
-collaborate with a local school.
-
-At the core of plan tree house is the construction of a simple house from living
+At the core of *plan tree* is the construction of a simple house from living
 trees using a combination of traditional construction techniques and
-contemporary research.
+contemporary research. As suggested by Tristan, this could be done in
+collaboration with the local Montessori school.
+
+Próspera is an ideal location. Building a new city in an island known for its
+natural beauty entails thinking precisely about the integration of architecture
+and nature. *Plan tree* creates a positive image and attracts forward thinking
+people.
 
 It is important to understand that, once planted, the house will take years, if
 not decades to develop. Nevertheless, it has utility from day one! Slowly its
 scaffold will be replaced by trees. Those trees are strangler figs, which send
-airroots to the ground that eventually strangulate the bamboo from which the
-scaffold is made. In the meantime the house can be used as a place for work or
-play. Continuous maintenance, such as pruning and health monitoring is
+aerial roots to the ground. Eventually they strangulate the bamboo from which
+the scaffold is made. In the meantime the house can be used as a place for work
+or play. Continuous maintenance, such as pruning and health monitoring is
 necessary.
 
 *The house grows together with those who take care of it.*
@@ -40,7 +35,8 @@ necessary.
 Timeline
 --------
 
-There are two tracks, one for planting in tropical zones, and a theoretical one.
+There are two tracks, one for planting, and a theoretical one which could run at
+a partnering institution anywhere in the world.
 
 ![Timeline](https://i.imgur.com/VpIXLH5.jpg)
 
@@ -50,7 +46,8 @@ There are two tracks, one for planting in tropical zones, and a theoretical one.
 Network
 -------
 
-There are various potential partners, and it will take time to forge collaborations.
+There are various potential partners, and it will require patience to forge
+collaborations.
 
 ![Drawing of network](https://i.imgur.com/GQ53gyh.jpg)
 
@@ -75,16 +72,16 @@ Learning objectives
   * Sustainability, ecologically as well as economically
 
 
-Openess
--------
+Site
+----
 
-Examples: Dim Sum Labs, Open Source Ecology
+Requirements:
 
-Non profit project, although for profit projects are encouraged to spin off from it
+  * Footprint of house itself, without tree crown: 5×5 m
+  
+  * Plenty of sun for photosynthesis
 
-Open and immediate sharing of all information
-
-All communication will be openly shared.
+  * Additional space for construction materials and for maintenance access.
 
 
 Funding
@@ -92,7 +89,10 @@ Funding
 
 The plan is to rely on fees for participation as well as on donations. Finances
 are kept fully transparent so that participants can see where the project is
-going. The founders take care of initial funding for bootstraping.
+going and get a sense of responsibility. This works very well at [Dim Sum
+Labs][4] hackerspace in Hong Kong.
+
+Initial funding is available for bootstrapping.
 
 Aside from the initial investment in land, expenses are very roughly estimated
 at:
@@ -108,25 +108,25 @@ at:
   * Compensation for tutoring: depends on partnership concept
 
 
+Openess
+-------
+
+Discoveries and communication is openly and immediately shared. This is to
+encourage others to get involved from anywhere in the world. An example for this
+strategy is [OSE][3], a successful American project about developing open source
+machinery and architecture.
+
+Entrepreneurialism is encouraged. Spinoffs can use the information however they
+like.
+
+
 Team
 ----
 
 To become part of the team, start contributing, for example by adding your
 thoughts to this document.
 
-
-Site
-----
-
-Requirements:
-
-  * Footprint of house itself, without tree crown: 5×5 m
-  
-  * Plenty of sun for photosynthesis
-
-  * Additional space for construction materials and for maintenance access.
-
-
-
 [1]: http://sites.inka.de/W1787/plan-tree/house/network/
 [2]: http://sites.inka.de/W1787/plan-tree/house/timeline/
+[3]: https://www.opensourceecology.org/
+[4]: https://www.dimsumlabs.com/
